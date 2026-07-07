@@ -28,6 +28,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 2 - AWS Security Group Creation (`devops-sg`)
 * [x] Day 3 - AWS Subnet Creation (`datacenter-subnet`)
 * [x] Day 4 - AWS S3 Bucket Versioning (`nautilus-s3-4381`)
-* [ ] Day 5
+* [x] Day 5 - AWS EBS gp3 Volume Creation (`xfusion-volume`)
 * [ ] ...
 * [ ] Day 100
