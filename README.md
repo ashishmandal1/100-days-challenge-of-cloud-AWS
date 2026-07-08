@@ -29,5 +29,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 3 - AWS Subnet Creation (`datacenter-subnet`)
 * [x] Day 4 - AWS S3 Bucket Versioning (`nautilus-s3-4381`)
 * [x] Day 5 - AWS EBS gp3 Volume Creation (`xfusion-volume`)
+* [x] Day 06 – Launched an Amazon EC2 instance (Amazon Linux, t2.micro)
 * [ ] ...
 * [ ] Day 100
