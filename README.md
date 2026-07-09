@@ -30,5 +30,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 4 - AWS S3 Bucket Versioning (`nautilus-s3-4381`)
 * [x] Day 5 - AWS EBS gp3 Volume Creation (`xfusion-volume`)
 * [x] Day 06 – Launched an Amazon EC2 instance (Amazon Linux, t2.micro)
+* [x] Day 07 - Change EC2 Instance Type (t2.micro → t2.nano)
 * [ ] ...
 * [ ] Day 100
