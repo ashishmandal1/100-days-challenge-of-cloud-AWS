@@ -32,5 +32,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 06 – Launched an Amazon EC2 instance (Amazon Linux, t2.micro)
 * [x] Day 07 - Change EC2 Instance Type (t2.micro → t2.nano)
 * [x] Day 08 – Enabled EC2 Stop Protection
+* [x] Day 09 - Enabled EC2 Termination Protection for an existing instance
 * [ ] ...
 * [ ] Day 100
