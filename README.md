@@ -33,5 +33,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 07 - Change EC2 Instance Type (t2.micro → t2.nano)
 * [x] Day 08 – Enabled EC2 Stop Protection
 * [x] Day 09 - Enabled EC2 Termination Protection for an existing instance
+* [x] Day 10 – Associate an Elastic IP with an EC2 Instance
 * [ ] ...
 * [ ] Day 100
