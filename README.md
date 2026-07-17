@@ -35,5 +35,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 09 - Enabled EC2 Termination Protection for an existing instance
 * [x] Day 10 – Associate an Elastic IP with an EC2 Instance
 * [x] Day 11 - Attached an existing Elastic Network Interface (`nautilus-eni`) to the EC2 instance (`nautilus-ec2`) in the `us-east-1` region.
+* [x] Day 12 - Attach an EBS Volume to an EC2 Instance
+* [x] Day 13 - Create an Amazon Machine Image (AMI)
 * [ ] ...
 * [ ] Day 100
