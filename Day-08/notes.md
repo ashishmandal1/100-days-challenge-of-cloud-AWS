@@ -27,4 +27,4 @@ Enable Stop Protection for an existing Amazon EC2 instance to prevent it from be
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 8 Completed

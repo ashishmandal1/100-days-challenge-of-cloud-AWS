@@ -45,4 +45,4 @@ Successfully launched an Amazon EC2 instance with the required configuration.
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 6 Completed

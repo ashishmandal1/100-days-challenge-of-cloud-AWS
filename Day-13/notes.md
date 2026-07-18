@@ -75,4 +75,4 @@ Successfully created an AMI named **datacenter-ec2-ami** from the EC2 instance *
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 13 Completed

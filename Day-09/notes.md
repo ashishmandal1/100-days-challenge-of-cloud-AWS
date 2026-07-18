@@ -25,4 +25,4 @@ Termination protection was successfully enabled for the `nautilus-ec2` instance,
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 9 Completed

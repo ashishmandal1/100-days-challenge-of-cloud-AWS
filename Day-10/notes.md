@@ -34,4 +34,4 @@ Attach an existing Elastic IP to an existing EC2 instance in the AWS us-east-1 r
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 10 Completed

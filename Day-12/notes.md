@@ -24,4 +24,4 @@ Successfully attached the EBS volume to the target EC2 instance.
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 12 Completed

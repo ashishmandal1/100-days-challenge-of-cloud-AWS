@@ -37,5 +37,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 11 - Attached an existing Elastic Network Interface (`nautilus-eni`) to the EC2 instance (`nautilus-ec2`) in the `us-east-1` region.
 * [x] Day 12 - Attach an EBS Volume to an EC2 Instance
 * [x] Day 13 - Create an Amazon Machine Image (AMI)
+* [x] Day 14 - Terminate EC2 Instance
 * [ ] ...
 * [ ] Day 100

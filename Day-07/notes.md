@@ -24,4 +24,4 @@ Successfully changed the EC2 instance type from `t2.micro` to `t2.nano`.
 
 ## Status
 
-✅ Day 5 Completed
+✅ Day 7 Completed
