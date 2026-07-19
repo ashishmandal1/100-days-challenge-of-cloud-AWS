@@ -38,5 +38,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 12 - Attach an EBS Volume to an EC2 Instance
 * [x] Day 13 - Create an Amazon Machine Image (AMI)
 * [x] Day 14 - Terminate EC2 Instance
+* [x] Day 15 - Created an Amazon EBS snapshot (datacenter-vol-ss) from the existing datacenter-vol volume.
 * [ ] ...
 * [ ] Day 100
