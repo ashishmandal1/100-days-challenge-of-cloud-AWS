@@ -40,5 +40,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 14 - Terminate EC2 Instance
 * [x] Day 15 - Created an Amazon EBS snapshot (datacenter-vol-ss) from the existing datacenter-vol volume.
 * [x] Day 16 - Created an IAM user (`iamuser_ravi`) using AWS IAM.
+* [x] Day 17: Created IAM group iamgroup_yousuf
 * [ ] ...
 * [ ] Day 100
