@@ -41,5 +41,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 15 - Created an Amazon EBS snapshot (datacenter-vol-ss) from the existing datacenter-vol volume.
 * [x] Day 16 - Created an IAM user (`iamuser_ravi`) using AWS IAM.
 * [x] Day 17: Created IAM group iamgroup_yousuf
+* [x] Day 18: Created IAM policy `iampolicy_rose` with read-only access to EC2 instances, AMIs, and snapshots.
 * [ ] ...
 * [ ] Day 100
