@@ -42,5 +42,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 16 - Created an IAM user (`iamuser_ravi`) using AWS IAM.
 * [x] Day 17: Created IAM group iamgroup_yousuf
 * [x] Day 18: Created IAM policy `iampolicy_rose` with read-only access to EC2 instances, AMIs, and snapshots.
+* [x] Day 19: Attach IAM policy `iampolicy_jim` to IAM user `iamuser_jim`
 * [ ] ...
 * [ ] Day 100
