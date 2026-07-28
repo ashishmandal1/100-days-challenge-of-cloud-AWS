@@ -44,6 +44,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 18: Created IAM policy `iampolicy_rose` with read-only access to EC2 instances, AMIs, and snapshots.
 * [x] Day 19: Attach IAM policy `iampolicy_jim` to IAM user `iamuser_jim`
 * [x] Day 20: Created IAM role `iamrole_mark` for EC2 and attached policy `iampolicy_mark`.
-* [x] Day 20 - Created an EC2 instance named `xfusion-ec2` using a Linux AMI with `t2.micro` instance type and associated an Elastic IP address named `xfusion-eip`.
+* [x] Day 20: Created an EC2 instance named `xfusion-ec2` using a Linux AMI with `t2.micro` instance type and associated an Elastic IP address named `xfusion-eip`.
+* [x] Day 22: Secure EC2 SSH Access using Custom SSH Key
 * [ ] ...
 * [ ] Day 100
