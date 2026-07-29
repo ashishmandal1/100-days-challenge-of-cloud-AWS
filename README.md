@@ -40,11 +40,12 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 14 - Terminate EC2 Instance
 * [x] Day 15 - Created an Amazon EBS snapshot (datacenter-vol-ss) from the existing datacenter-vol volume.
 * [x] Day 16 - Created an IAM user (`iamuser_ravi`) using AWS IAM.
-* [x] Day 17: Created IAM group iamgroup_yousuf
-* [x] Day 18: Created IAM policy `iampolicy_rose` with read-only access to EC2 instances, AMIs, and snapshots.
-* [x] Day 19: Attach IAM policy `iampolicy_jim` to IAM user `iamuser_jim`
-* [x] Day 20: Created IAM role `iamrole_mark` for EC2 and attached policy `iampolicy_mark`.
-* [x] Day 20: Created an EC2 instance named `xfusion-ec2` using a Linux AMI with `t2.micro` instance type and associated an Elastic IP address named `xfusion-eip`.
-* [x] Day 22: Secure EC2 SSH Access using Custom SSH Key
+* [x] Day 17 - Created IAM group iamgroup_yousuf
+* [x] Day 18 - Created IAM policy `iampolicy_rose` with read-only access to EC2 instances, AMIs, and snapshots.
+* [x] Day 19 - Attach IAM policy `iampolicy_jim` to IAM user `iamuser_jim`
+* [x] Day 20 - Created IAM role `iamrole_mark` for EC2 and attached policy `iampolicy_mark`.
+* [x] Day 20 - Created an EC2 instance named `xfusion-ec2` using a Linux AMI with `t2.micro` instance type and associated an Elastic IP address named `xfusion-eip`.
+* [x] Day 22 - Secure EC2 SSH Access using Custom SSH Key
+* [x] Day 23 - AWS S3 Data Migration Using AWS CLI
 * [ ] ...
 * [ ] Day 100
