@@ -47,5 +47,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 20 - Created an EC2 instance named `xfusion-ec2` using a Linux AMI with `t2.micro` instance type and associated an Elastic IP address named `xfusion-eip`.
 * [x] Day 22 - Secure EC2 SSH Access using Custom SSH Key
 * [x] Day 23 - AWS S3 Data Migration Using AWS CLI
+* [x] Day 24 - Application Load Balancer (ALB)
 * [ ] ...
 * [ ] Day 100
