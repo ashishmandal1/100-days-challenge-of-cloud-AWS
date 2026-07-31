@@ -48,5 +48,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 22 - Secure EC2 SSH Access using Custom SSH Key
 * [x] Day 23 - AWS S3 Data Migration Using AWS CLI
 * [x] Day 24 - Application Load Balancer (ALB)
+* [x] Day 25 – AWS CloudWatch Alarm for EC2 CPU Monitoring
 * [ ] ...
 * [ ] Day 100
