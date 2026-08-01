@@ -49,5 +49,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 23 - AWS S3 Data Migration Using AWS CLI
 * [x] Day 24 - Application Load Balancer (ALB)
 * [x] Day 25 – AWS CloudWatch Alarm for EC2 CPU Monitoring
+* [x] Day 26 - Create an EC2 Instance and Install Nginx
 * [ ] ...
 * [ ] Day 100
