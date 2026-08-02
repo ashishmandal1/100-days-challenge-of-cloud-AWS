@@ -50,5 +50,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 24 - Application Load Balancer (ALB)
 * [x] Day 25 – AWS CloudWatch Alarm for EC2 CPU Monitoring
 * [x] Day 26 - Create an EC2 Instance and Install Nginx
+* [x] Day 27 - Create a Public VPC with EC2 Instance
 * [ ] ...
 * [ ] Day 100
