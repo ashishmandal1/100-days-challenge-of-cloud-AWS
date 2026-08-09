@@ -52,5 +52,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 26 - Create an EC2 Instance and Install Nginx
 * [x] Day 27 - Create a Public VPC with EC2 Instance
 * [x] Day 28 – Amazon Elastic Container Registry (ECR)
+* [x] Day 29 – AWS VPC Peering
 * [ ] ...
 * [ ] Day 100
