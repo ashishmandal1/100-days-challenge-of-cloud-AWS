@@ -55,5 +55,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 29 – AWS VPC Peering
 * [x] Day 30 - NAT Instance for Private EC2 Internet Access
 * [x] Day 31 - Create private MySQL RDS instance
+* [x] Day 32 — RDS Snapshot & Restore:** Created `xfusion-snapshot` from `xfusion-rds` and restored it as `xfusion-snapshot-restore` using `db.t3.micro`, verified as available.
 * [ ] ...
 * [ ] Day 100
