@@ -56,6 +56,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 30 - NAT Instance for Private EC2 Internet Access
 * [x] Day 31 - Create private MySQL RDS instance
 * [x] Day 32 — RDS Snapshot & Restore:** Created `xfusion-snapshot` from `xfusion-rds` and restored it as `xfusion-snapshot-restore` using `db.t3.micro`, verified as available.
-* [x] Day 33 - AWS Lambda | Created and deployed the `nautilus-lambda` Python Lambda function using the `lambda_execution_role`, returning `Welcome to KKE AWS Labs!` with status code `200` in `us-east-1`.
+* [x] Day 33 - AWS Lambda | Created and deployed the `nautilus-lambda` Python Lambda function using the `lambda_execution_role`, returning `Welcome to KKE AWS Labs!` with status code `200` in `us-east-1`. 
+* [x] Day 34 - Created and deployed the `devops-lambda-cli` AWS Lambda function using Python 3.14, a ZIP deployment package, and the existing `lambda_execution_role`, then verified it successfully returned `Welcome to KKE AWS Labs!`.
 * [ ] ...
 * [ ] Day 100
