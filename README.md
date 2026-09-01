@@ -58,5 +58,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 32 — RDS Snapshot & Restore:** Created `xfusion-snapshot` from `xfusion-rds` and restored it as `xfusion-snapshot-restore` using `db.t3.micro`, verified as available.
 * [x] Day 33 - AWS Lambda | Created and deployed the `nautilus-lambda` Python Lambda function using the `lambda_execution_role`, returning `Welcome to KKE AWS Labs!` with status code `200` in `us-east-1`. 
 * [x] Day 34 - Created and deployed the `devops-lambda-cli` AWS Lambda function using Python 3.14, a ZIP deployment package, and the existing `lambda_execution_role`, then verified it successfully returned `Welcome to KKE AWS Labs!`.
+* [x] Day 35 - Created a private MySQL 8.4.5 RDS instance `datacenter-rds`, secured EC2-to-RDS traffic on port 3306, configured passwordless SSH, deployed a PHP application to `datacenter-ec2`, and verified successful database connectivity.
+* [x] - Day 36 - AWS Application Load Balancer with Nginx EC2 and healthy target.
 * [ ] ...
 * [ ] Day 100
