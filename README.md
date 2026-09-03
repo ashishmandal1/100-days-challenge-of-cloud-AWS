@@ -60,5 +60,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 34 - Created and deployed the `devops-lambda-cli` AWS Lambda function using Python 3.14, a ZIP deployment package, and the existing `lambda_execution_role`, then verified it successfully returned `Welcome to KKE AWS Labs!`.
 * [x] Day 35 - Created a private MySQL 8.4.5 RDS instance `datacenter-rds`, secured EC2-to-RDS traffic on port 3306, configured passwordless SSH, deployed a PHP application to `datacenter-ec2`, and verified successful database connectivity.
 * [x] - Day 36 - AWS Application Load Balancer with Nginx EC2 and healthy target.
+* [x] Day 37 - AWS EC2 S3 IAM Role | Configured private S3 access for `datacenter-ec2` using an IAM role and verified upload, list, and download operations.
+
 * [ ] ...
 * [ ] Day 100
