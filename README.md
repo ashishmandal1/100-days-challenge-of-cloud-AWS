@@ -63,6 +63,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 37 - AWS EC2 S3 IAM Role | Configured private S3 access for `datacenter-ec2` using an IAM role and verified upload, list, and download operations.
 * [x] Day 38 - AWS ECR & ECS Fargate | Created private ECR, pushed a Docker image, deployed it using ECS Fargate, and verified a running service.
 * [x] Day 39 - AWS S3 Static Website | Hosted a publicly accessible static website using S3 with index.html.
-& [x] Day 40 - Fixed VPC Internet Gateway routing and verified public Nginx access.
+* [x] Day 40 - Fixed VPC Internet Gateway routing and verified public Nginx access.
+* [x] Day 40 – KMS Encryption and Decryption
 * [ ] ...
 * [ ] Day 100
