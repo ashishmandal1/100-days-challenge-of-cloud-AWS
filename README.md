@@ -65,5 +65,7 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 39 - AWS S3 Static Website | Hosted a publicly accessible static website using S3 with index.html.
 * [x] Day 40 - Fixed VPC Internet Gateway routing and verified public Nginx access.
 * [x] Day 40 – KMS Encryption and Decryption
+* [x] Day 41: KMS encryption
+* [x] Day 42: DynamoDB Tasks
 * [ ] ...
 * [ ] Day 100
