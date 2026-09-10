@@ -68,5 +68,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 41: KMS encryption
 * [x] Day 42: DynamoDB Tasks
 * [x] Day 43 — Amazon EKS Cluster
+* [x] Day 44 — Auto Scaling Group and Application Load Balancer
 * [ ] ...
 * [ ] Day 100
