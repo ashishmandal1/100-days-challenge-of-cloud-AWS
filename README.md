@@ -69,5 +69,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 42: DynamoDB Tasks
 * [x] Day 43 — Amazon EKS Cluster
 * [x] Day 44 — Auto Scaling Group and Application Load Balancer
+* [x] Day 45 — Configured NAT Gateway for private EC2 internet access
 * [ ] ...
 * [ ] Day 100
