@@ -71,5 +71,6 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 44 — Auto Scaling Group and Application Load Balancer
 * [x] Day 45 — Configured NAT Gateway for private EC2 internet access
 * [x] Day 46 - Automated S3 file copy with Lambda and DynamoDB logging
+* [x] Day 47 - Implemented priority queuing with AWS SQS, SNS, Lambda, and CloudFormation.
 * [ ] ...
 * [ ] Day 100
