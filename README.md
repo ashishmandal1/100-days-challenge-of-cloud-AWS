@@ -76,5 +76,5 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 49 - Completed secure log aggregation using VPC Peering, private/public EC2 instances, IAM role-based S3 access, SCP, cron automation, and a private encrypted S3 bucket.
 * [x] Day 50 — Completed
 Expanded the `devops-ec2` root EBS volume from 8 GiB to 12 GiB, expanded the root partition and XFS filesystem, and successfully passed the KodeKloud automated validation.
-* [ ] ...
-* [ ] Day 50
+
+#Challenge Completed
