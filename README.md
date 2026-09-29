@@ -77,4 +77,4 @@ To consistently learn and practice cloud technologies, AWS services, and DevOps 
 * [x] Day 50 — Completed
 Expanded the `devops-ec2` root EBS volume from 8 GiB to 12 GiB, expanded the root partition and XFS filesystem, and successfully passed the KodeKloud automated validation.
 * [ ] ...
-* [ ] Day 100
+* [ ] Day 50
